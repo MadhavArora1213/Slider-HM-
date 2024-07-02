@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.splide__arrow {
+    display: none;
+}
+
+.splide__pagination {
+    bottom: -5rem;
+    display: none;
+}
+.img_box{
+    margin-top: 20px;
+    padding: 50px;
+}
+.splide{
+    visibility: visible;
+}
+.img_box2{
+    margin-top: 10px;
+    padding: 50px;
+}
